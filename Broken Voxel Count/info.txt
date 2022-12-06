@@ -1,0 +1,4 @@
+name = Broken Voxel Count
+author = Mike Boharsik
+description = Displays how many voxels the player has broken. Intended to help with the achievements "Whoops", "Wasn't me", and "Now what".
+tags = Tool
